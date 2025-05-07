@@ -48,9 +48,6 @@ This end-to-end project integrates **Python**, **Excel**, and **Tableau** to ana
     - High-priced property types
     - Review score vs price
     - Map view of listings
-
-## Dashboard Preview
-> A screenshot or link to the Tableau dashboard can be added here.
-
+    
 ## Conclusion
 This project successfully demonstrates the power of combining machine learning with interactive data visualization to drive data-backed pricing decisions in the Airbnb marketplace. The Tableau dashboard provides transparency and empowers hosts to fine-tune their strategies based on real insights.
